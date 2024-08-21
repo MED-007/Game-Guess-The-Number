@@ -27,18 +27,18 @@ This is a simple C++ program that implements a number guessing game. The program
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/number-guessing-game.git
-    cd number-guessing-game
+    git clone https://github.com/MED-007/Games.git
+    cd Games
     ```
 
 2. Compile the program:
     ```bash
-    g++ -o number_guessing_game main.cpp
+    g++ -o guessgame.cpp
     ```
 
 3. Run the program:
     ```bash
-    ./number_guessing_game
+    ./guessgame
     ```
 
 ## Usage
