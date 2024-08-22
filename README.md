@@ -27,8 +27,8 @@ This is a simple C++ program that implements a number guessing game. The program
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MED-007/Games.git
-    cd Games
+    git clone https://github.com/MED-007/Game-Guess-The-Number.git
+    cd Game-Guess-The-Number
     ```
 
 2. Compile the program:
